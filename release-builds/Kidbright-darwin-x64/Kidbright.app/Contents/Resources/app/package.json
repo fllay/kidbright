@@ -1,0 +1,19 @@
+{
+  "name": "Kidbright",
+  "version": "1.0.0",
+  "description": "My first electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.7",
+    "electron-packager": "^8.7.2"
+  },
+  "dependencies": {
+    "electron-progressbar": "^1.0.4",
+    "replace": "^1.0.0"
+  }
+}
